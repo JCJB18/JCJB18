@@ -21,7 +21,7 @@ Depois disso eu percebi o ramo que queria seguir ainda não decidir a área, fiq
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCJB18&theme=dark&show_icons=true)
 
 ## Hard Skill   
--  **Phyton**  - *Aprendendo*
+-  **Python**  - *Aprendendo*
 -  **C++** - *Aprendendo*
 - **Java** - *Aprendendo*
 - **Git** - *Aprendendo*
@@ -29,7 +29,7 @@ Depois disso eu percebi o ramo que queria seguir ainda não decidir a área, fiq
 -  **Windows**
 -  **Linux** 
 
-## Soft
+## Soft Skill
 - **Trabalho em Equipe**
 - **Resolução de Problemas**
 - **Liderança**
